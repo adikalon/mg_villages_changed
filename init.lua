@@ -38,6 +38,17 @@ mg_villages.prices = {
 	empty16x16     = "default:goldblock 30",
 	empty5x5       = "default:goldblock 10",
 	spawn          = "nyancat:nyancat 99",
+
+	cementry       = "default:goldblock 25",
+	fountain       = "default:goldblock 2",
+	lamp           = "default:goldblock 10",
+	hotel          = "default:goldblock 140",
+	pub            = "default:goldblock 120",
+	stable         = "default:goldblock 2",
+	bunker         = "default:goldblock 150",
+	townhall       = "default:goldblock 150",
+	castle         = "default:goldblock 150",
+	park           = "default:goldblock 150",
 }
 
 mg_villages.INVERSE_HOUSE_DENSITY = 80;
