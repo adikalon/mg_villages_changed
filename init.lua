@@ -45,3 +45,6 @@ mg_villages.INVERSE_HOUSE_DENSITY = 80;
 mg_villages.spawnplayer = function(player)
 	return
 end
+
+handle_schematics.global_replacement_table['cottages:bed_head'] = 'beds:fancy_bed_top';
+handle_schematics.global_replacement_table['cottages:bed_foot'] = 'beds:fancy_bed_bottom';
