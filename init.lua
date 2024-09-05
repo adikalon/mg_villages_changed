@@ -48,7 +48,7 @@ mg_villages.prices = {
 	bunker         = "default:goldblock 150",
 	townhall       = "default:goldblock 150",
 	castle         = "default:goldblock 150",
-	park           = "default:goldblock 150",
+	park           = "default:goldblock 10",
 }
 
 mg_villages.INVERSE_HOUSE_DENSITY = 80;
