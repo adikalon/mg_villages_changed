@@ -41,3 +41,7 @@ mg_villages.prices = {
 }
 
 mg_villages.INVERSE_HOUSE_DENSITY = 80;
+
+mg_villages.spawnplayer = function(player)
+	return
+end
