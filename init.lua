@@ -39,3 +39,5 @@ mg_villages.prices = {
 	empty5x5       = "default:goldblock 10",
 	spawn          = "nyancat:nyancat 99",
 }
+
+mg_villages.INVERSE_HOUSE_DENSITY = 80;
