@@ -50,7 +50,7 @@ mg_villages.prices = {
 	castle         = "default:goldblock 150",
 	park           = "default:goldblock 10",
 
-	horsestable    = "default:goldblock 25",
+	horsestable    = "default:goldblock 20",
 	school         = "default:goldblock 140",
 }
 
