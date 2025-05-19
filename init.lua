@@ -54,6 +54,7 @@ mg_villages.prices = {
 	school         = "default:gold_ingot 420",
 }
 
+mg_villages.ENABLE_PROTECTION = false;
 mg_villages.INVERSE_HOUSE_DENSITY = 80;
 mg_villages.VILLAGE_CHANCE = 7;
 
